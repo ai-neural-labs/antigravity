@@ -4,6 +4,7 @@ neural_labs.py  —  Animated ASCII art: "Neural Labs"
 Animations:  Loading bars  ▸  Matrix rain  ▸  Slide-in reveal
              Rainbow pulse  ▸  Network signal  ▸  Final splash
 Works in: Windows Terminal, PowerShell, any ANSI true-color terminal.
+To run from cmd: python neural_labs.py
 """
 
 import time, sys, os, random, math
