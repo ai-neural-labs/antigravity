@@ -5,6 +5,9 @@ All projects were built with the Antigravity IDE
 OS: Windows  
 https://www.python.org/downloads/
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Sudoku Game
 **Prompt**: create a sudoku game. ask me the questions you want.  
 **Model**: Gemini 3.1 Pro  
