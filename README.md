@@ -11,17 +11,22 @@ https://www.python.org/downloads/
 **Time**: 5 minutes  
 **File**: sudoku_v2.html  
 **Notes**: the game worked from the first iteration. I didn't do any manual corrections.  
+![](sudoku_v2.jpg) 
 
 ## Neural Labs Animation
 **Prompt**: create another script that reads Neural Labs in ascii arts and has animation  
 **Model**: Gemini 3.1 Pro  
 **Time**: 5 minutes 
 **File**: neural_labs.py  
-**Notes**: I needed to prompt a couple more times for corrections
+**Notes**: I needed to prompt a couple more times for corrections  
+![](neural_labs.jpg)  
+![](neural_labs_blk.jpg)  
 
 ## ASCII Art
 **Prompt**: with ascii characters arts, create a script with art that reads "AI Neural Labs"  
 **Model**: Gemini 3.1 Pro  
 **Time**: 5 minutes  
-**File**: neural_labs.py  
+**File**: ascii_art.py  
 **Notes**: I needed to prompt a couple more times for corrections  
+![](ascii_art.jpg)  
+![](ascii_art_blk.jpg)  
